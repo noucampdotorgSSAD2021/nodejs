@@ -1,22 +1,25 @@
 # Node.js Exercise 1 – Getting Started
 
-
 ## Clone the Remote Repository
 
-This will copy some ``nodejs`` program files to your ``htdocs`` folder.
+This will copy some ``nodejs`` program files to your ``htdocs`` folder.  Pick one of the following two ways of downloading the repository.
 
-1.	Type these commands into your *Git Bash* client:
+### Clone by downloading ZIP file
+Download [this link](https://github.com/noucampdotorgSSAD2021/nodejs/archive/main.zip).  Ensure you rename the folder downloaded as ``nodejs`` and copy this folder into your XAMPP ``htdocs`` folder.
+
+### Clone by using git
+
+Type these commands into your *Git Bash* client:
 
 	```
 	$ cd /<DRIVE>/xampp/htdocs   
 	$ git clone https://github.com/noucampdotorgSSAD2021/nodejs.git nodejs
-	$ cd nodejs
-	$ dir 
+	$ cd d3
+	$ dir or ls
 
 	```
 
 Check your ``htdocs`` folder.  You should have a new folder called ``nodejs`` with some files in it.
-
 
 
 ## Part 1 – Hello NodeJS
