@@ -14,7 +14,7 @@ Type these commands into your *Git Bash* client:
 	```
 	$ cd /<DRIVE>/xampp/htdocs   
 	$ git clone https://github.com/noucampdotorgSSAD2021/nodejs.git nodejs
-	$ cd d3
+	$ cd nodejs
 	$ dir or ls
 
 	```
